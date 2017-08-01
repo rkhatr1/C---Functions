@@ -11,3 +11,6 @@ nMatch 2:
 
 Sudoku:
   C program that inputs an empty sudoku and outputs the solution for it.
+
+Smaller Functions:
+  Continously adding functions...
